@@ -11,7 +11,7 @@ My learning is focused on the core skills and tools for both Offensive Security 
 
 * Nmap basics
   * & advance
-* Python basics
+* Python Multi port scanner(Mimic Nmap)
   * & advance 
 
 
