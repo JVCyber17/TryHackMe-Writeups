@@ -9,7 +9,7 @@ My learning is focused on the core skills and tools for both Offensive Security 
 
 ## Table of Contents
 
-* Nmap basics
+* Nmap basics(Network Mapper)
   * & advance (protocol analysis, defensive evasion, and targeted vulnerability identification)
 * Python Multi port scanner(Mimic Nmap)
   * & advance 
